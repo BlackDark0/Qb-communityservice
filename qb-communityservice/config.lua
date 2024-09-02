@@ -6,7 +6,7 @@ Config.Locale       				= 'es'
 
 Config.PoliceJobName				= 'police' --Change with your police job name
 
-Config.ServiceExtensionOnEscape		= 10
+Config.ServiceExtensionOnEscape			= 10
 
 Config.ServiceLocation 				= {x =  170.43, y = -990.7, z = 30.09}
 
